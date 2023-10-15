@@ -17,7 +17,7 @@
 
 ### Stack tech and what i'm learning
   <div>
-    <img src="https://icons8.com.br/icon/39853/javascript" width="40" height="40" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
     &nbsp;
     &nbsp;
     <img src="https://icons8.com.br/icon/12584/python" width="40" height="40" />
